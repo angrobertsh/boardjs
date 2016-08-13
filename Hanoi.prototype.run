@@ -1,0 +1,7 @@
+Hanoi.prototype.run = function(){
+
+  //players will move tower blocks until all three are stacked on a different peg from the original
+    //get a move from a player
+      //check if move is valid
+     //make move
+}
